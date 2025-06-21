@@ -1,6 +1,6 @@
 {
   "name": "@ticketting/libraries",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
@@ -38,6 +38,6 @@
     "node-nats-streaming": "^0.3.2"
   },
   "publishConfig": {
-  "access": "public"
+    "access": "public"
   }
 }
