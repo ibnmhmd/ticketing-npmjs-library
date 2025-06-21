@@ -1,0 +1,1 @@
+{"version":3,"file":"expiration-complete-event.interface.d.ts","sourceRoot":"","sources":["../../../src/interface/expiration-complete-event.interface.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAC;AACjD,MAAM,WAAW,uBAAuB;IACpC,OAAO,EAAE,QAAQ,CAAC,kBAAkB,CAAC;IACrC,IAAI,EAAE;QACF,OAAO,EAAE,MAAM,CAAC;KACnB,CAAC;CACL"}
